@@ -1,0 +1,34 @@
+h3 {
+    height: auto;
+    color: firebrick;
+    font-style: normal;
+    text-align: center;
+    background:pink;
+    padding: 10;
+    margin: auto;
+    }
+td { color: rgb(124, 33, 189);
+    padding: 6px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid blue;
+    border-collapse: collapse;
+    
+    }
+table {
+    border: 2px solid blue;
+    border-collapse: collapse;
+    width: 40%;
+    
+    }
+#headrow{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: chartreuse;
+}
+.paragraph{
+    font-family: 'Algerian', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(50, 224, 73);
+
+}
