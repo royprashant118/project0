@@ -32,3 +32,9 @@ table {
     color: rgb(50, 224, 73);
 
 }
+body {
+    background-image: url('star formation.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
